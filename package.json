@@ -1,0 +1,21 @@
+{
+  "name": "notebook-crud-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix BACK-END && npm install --prefix FRONT-END && npm run build --prefix FRONT-END",
+    "start": "npm run start --prefix BACK-END"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Solex247@github.com/Solex247/creative-board-app-MERN-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solex247/creative-board-app-MERN-/issues"
+  },
+  "homepage": "https://github.com/Solex247/creative-board-app-MERN-#readme"
+}
